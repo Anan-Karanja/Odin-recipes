@@ -1,3 +1,3 @@
 # Odin-recipes
 cooking recipes
-hey
+This project is all about cooking recipes which is my first project.
