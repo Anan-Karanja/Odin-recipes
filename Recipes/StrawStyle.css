@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(253, 221, 226);
+}
+
+.picha {
+    height: 200px;
+    border-radius: 15px 15px 15px 15px;
+}
+
+h1 {
+    color: rgb(255, 84, 84);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: uppercase;
+    font-size: 35px;
+}
+
+p {
+    color: rgb(90, 39, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    
+}
